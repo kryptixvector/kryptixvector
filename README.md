@@ -1,16 +1,32 @@
-## Hi there 👋
+# Sujjal Kumar Nahak
 
-<!--
-**kryptixvector/kryptixvector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> B.Tech Student in Computer Science & Artificial Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I am a 2nd-year B.Tech student specializing in CS & AI. I focus on web development, programming, and building functional software applications.
+
+---
+
+### Tech Stack
+* **Languages:** Python, HTML5, CSS3
+* **Focus Areas:** Web Development, Artificial Intelligence
+
+---
+
+### Projects
+* **College Marks Website**  
+  A web application designed to display and manage student academic marks cleanly.
+
+---
+
+### Education
+* **B.Tech in Computer Science & Artificial Intelligence** (2nd Year)
+
+---
+
+### Connect
+* **Email:** [sujjalnahak10@gmail.com](mailto:sujjalnahak10@gmail.com)
+* **GitHub:** [@sujjalnahak](https://github.com/sujjalnahak)
+* **LinkedIn:** [Sujjal Kumar Nahak](https://www.linkedin.com/in/sujjal-kumar-nahak-690b8b372)
