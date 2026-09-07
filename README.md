@@ -28,5 +28,5 @@ I am a 2nd-year B.Tech student specializing in CS & AI. I focus on web developme
 
 ### Connect
 * **Email:** [sujjalnahak10@gmail.com](mailto:sujjalnahak10@gmail.com)
-* **GitHub:** [@sujjalnahak](https://github.com/sujjalnahak)
+* **GitHub:** [@sujjalnahak]((https://github.com/kryptixvector))
 * **LinkedIn:** [Sujjal Kumar Nahak](https://www.linkedin.com/in/sujjal-kumar-nahak-690b8b372)
